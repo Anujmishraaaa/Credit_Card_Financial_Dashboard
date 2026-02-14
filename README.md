@@ -14,10 +14,9 @@ This project was built to:
 Centralize transaction and customer data into a single analytical dashboard
 Automate financial reporting
 Enable stakeholders to track performance in real time
-
 Support data-driven business decisions across marketing and operations
-📌 **Project Overview**
 
+📌 **Project Overview**
 This project focuses on analyzing credit card transaction and customer data to deliver real-time financial insights using an interactive Power BI dashboard.
 The dashboard helps stakeholders track revenue performance, customer behavior, and transaction trends efficiently.
 
